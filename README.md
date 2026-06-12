@@ -9,11 +9,12 @@
 
 ---
 
-| ![](<img width="458" height="383" alt="Screenshot 2026-06-12 180503" src="https://github.com/user-attachments/assets/c8e47005-3a64-4f54-8862-905a645257be" />
-) | ![](<img width="590" height="430" alt="Screenshot 2026-06-12 180709" src="https://github.com/user-attachments/assets/38a87da8-a14f-469e-8670-8fc0570667a3" />
-) | ![](<img width="673" height="419" alt="Screenshot 2026-06-12 180757" src="https://github.com/user-attachments/assets/f1d8e066-8eb1-444c-9368-19d052f49787" />
-) |
-|---|---|---|
+<details>
+<summary>Click to see screenshots</summary>
+<img width="458" height="383" alt="Screenshot 2026-06-12 180503" src="https://github.com/user-attachments/assets/c8e47005-3a64-4f54-8862-905a645257be" />
+<img width="590" height="430" alt="Screenshot 2026-06-12 180709" src="https://github.com/user-attachments/assets/38a87da8-a14f-469e-8670-8fc0570667a3" />
+<img width="673" height="419" alt="Screenshot 2026-06-12 180757" src="https://github.com/user-attachments/assets/f1d8e066-8eb1-444c-9368-19d052f49787" />
+</details>
 
 ## 🌟 What is ReconKit?
 
